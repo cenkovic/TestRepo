@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS `category` (
+CREATEAAAAAAA TABLE IF NOT EXISTS `category` (
   `id` int(11) NOT NULL auto_increment,
   `title` varchar(255) NOT NULL,
   `content_type_id` int(11) NOT NULL default '0',
